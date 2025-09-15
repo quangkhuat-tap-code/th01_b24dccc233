@@ -12,7 +12,7 @@ function App() {
       <Bai2 /> <br />
       <Bai3 /> <br />
       <Bai4 /> <br />
-      <Bai5 />
+      <Bai5 /><br/>
     </div>
   );
 }
